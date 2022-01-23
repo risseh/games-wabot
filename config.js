@@ -8,7 +8,7 @@ global.Owner = {
     isReport: false, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   }
-global.mods = ['13479805233'] // Want some help?
+global.mods = ['16066173242'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
